@@ -1,5 +1,6 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import { motion } from "framer-motion";
+import { useRef, useEffect, useState } from "react";
 
 function App() {
   return (
