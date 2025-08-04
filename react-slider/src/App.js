@@ -5,7 +5,7 @@ import { useRef, useEffect, useState } from "react";
 function App() {
   return (
     <div className="App">
-      <h1>Welcome to the React Slider App</h1>
+      <motion.h1 animate={{ x: 250 }}>Hello</motion.h1>
     </div>
   );
 }
