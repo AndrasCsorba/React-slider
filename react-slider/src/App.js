@@ -5,7 +5,7 @@ import { useRef, useEffect, useState } from "react";
 function App() {
   return (
     <div className="App">
-      <motion.h1 animate={{ x: 400, y: 150 }}>Hello</motion.h1>
+      <motion.h1 animate={{ x: 400, y: 150 }}>Hello Moto</motion.h1>
     </div>
   );
 }
