@@ -12,7 +12,7 @@ function App() {
         <motion.div drag="x" className="inner-carousel">
           {images.map((image, index) => (
             <motion.div className="item" key={index}>
-              <img src={image} alt="" />
+              <img src={image} alt="" draggable="false" />
             </motion.div>
           ))}
         </motion.div>
