@@ -2,7 +2,7 @@
   "name": "react-slider",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://AndrasCsorba.github.io/react-slider",
+  "homepage": "https://AndrasCsorba.github.io/React-slider",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
