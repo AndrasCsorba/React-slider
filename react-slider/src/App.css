@@ -11,10 +11,10 @@
 }
 .inner-carousel {
     display: flex;
-    background: lightblue;
+   /* background: lightblue; */
 }
 .carousel {
     cursor: grab;
     overflow: hidden;
-    background-color: blueviolet;
+    /* background-color: blueviolet; */
 }
