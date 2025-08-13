@@ -13,6 +13,9 @@ function App() {
 
    return (
      <div className="App">
+       <header className="app-header">
+         <h1> React Image Carousellino</h1>
+       </header>
        <motion.div
          ref={carousel}
          className="carousel"
