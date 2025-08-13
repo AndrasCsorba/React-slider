@@ -1,6 +1,7 @@
-﻿# React-slider
-````markdown
 ## Live Demo
 
-[Live Demo itt!](https://AndrasCsorba.github.io/React-slider)
+[Live Demo itt!](https://andrascsorba.github.io/React-slider/)
+
+
+
 
