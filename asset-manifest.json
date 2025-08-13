@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-slider/static/css/main.52c6c2f1.css",
+    "main.js": "/React-slider/static/js/main.1be0df78.js",
+    "static/js/453.5aaf3add.chunk.js": "/React-slider/static/js/453.5aaf3add.chunk.js",
+    "static/media/image2.jpg": "/React-slider/static/media/image2.e07ee663fd53d9c1052c.jpg",
+    "static/media/image1.jpg": "/React-slider/static/media/image1.4a972a81a2ae99b756f7.jpg",
+    "static/media/image3.jpg": "/React-slider/static/media/image3.f160352aa67502b9ce72.jpg",
+    "static/media/image6.jpg": "/React-slider/static/media/image6.6ee55b75d39b85f58d46.jpg",
+    "static/media/image4.jpg": "/React-slider/static/media/image4.514052bbcd4c5c1f9fe1.jpg",
+    "static/media/image5.jpg": "/React-slider/static/media/image5.48370a3c7e251a148c56.jpg",
+    "index.html": "/React-slider/index.html",
+    "main.52c6c2f1.css.map": "/React-slider/static/css/main.52c6c2f1.css.map",
+    "main.1be0df78.js.map": "/React-slider/static/js/main.1be0df78.js.map",
+    "453.5aaf3add.chunk.js.map": "/React-slider/static/js/453.5aaf3add.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52c6c2f1.css",
+    "static/js/main.1be0df78.js"
+  ]
+}
